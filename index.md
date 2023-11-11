@@ -19,10 +19,14 @@ The Critical Decentralisation Cluster on the [Chaos Communication Congress](http
 * Swiss Cryptoeconomics
 
 We also welcome other assemblies and groups in the categories Privacy & Anonymity, Coded Cultures and Open Hardware.
+* Conference management through **FRAB** for the cluster: [frab.riat.at](https://frab.riat.at)
+* Coordination and other talk on **Matrix**: [#cdc:dod.ngo](https://matrix.to/#/#cdc:dod.ngo)
 
 In the past years the cluster consisted of a recording stage as well as two workshop areas for the assemblies and similar minded groups and projects. Part of the cluster also has been a [coffee area from Paralelni Polis](https://steemitimages.com/640x0/https://steemitimages.com/DQmW99U5VvqfX8bxsVnDL4sG4n3p2ZY2Xo5jLkerxwTGqWA/q62LNBE.jpg), as well as a historic overview of “process artefacts” from the RIAT archive.
 
-[Conference Management System FRAB for the Cluster ](https://frab.riat.at)
+Conference management through FRAB for the cluster: [frab.riat.at](https://frab.riat.at)
+
+Coordination and other talk on Matrix: [#cdc:dod.ngo](https://matrix.to/#/#cdc:dod.ngo)
 
 # List of past assemblies at the cluster
 
