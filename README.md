@@ -1,5 +1,6 @@
-## page for the critical decentralization cluster
+## page for the critical decentralisation cluster
 
 <https://decentral.community/>
 
-we coordinate on matrix: [#cdc:dod.ngo](https://matrix.to/#/#cdc:dod.ngo)
+* Coordination and other talk on **Matrix**: [#cdc:dod.ngo](https://matrix.to/#/#cdc:dod.ngo)
+* Conference management through **FRAB** for the cluster: [frab.riat.at](https://frab.riat.at)
