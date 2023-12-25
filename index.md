@@ -9,9 +9,15 @@ layout: home
 
 The Critical Decentralisation Cluster on the [Chaos Communication Congress](https://en.wikipedia.org/wiki/Chaos_Communication_Congress) is an area and grouping of different "assemblies", which are working together and presenting projects, workshops and a space **to critically discuss the future of decentralisation**.
 
+* See [/37C3](/37C3)
+* C3NAV: [c:0:135.5:159.25](https://37c3.c3nav.de/l/c:0:135.5:159.25/)
 * 37C3 Hub: [Habitat: Criticial Decentralisation Cluster](https://events.ccc.de/congress/2023/hub/en/assembly/CDC/)
 * Conference management through **FRAB** for the cluster: [frab.riat.at](https://frab.riat.at)
 * Coordination and other talk on **Matrix**: [#cdc:dod.ngo](https://matrix.to/#/#cdc:dod.ngo)
+
+The habitat is located in the eastern corner of hall 3 on the ground floor (`c:0:135.5:159.25`).
+
+![CDC Location at 37C3](/assets/37c3-cdc-loc.png)
 
 # List of confirmed assemblies for 37C3
 
