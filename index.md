@@ -27,7 +27,9 @@ The habitat is located in the eastern corner of hall 3 on the ground floor (`c:0
 * [Namecoin](https://www.namecoin.org/) - experimental open-source technology which improves decentralisation, security, and censorship resistance
 * [Replicant](https://replicant.us/) - fully free Android distribution
 * [FOSSASIA](https://fossasia.org) - Open-source community in Asia
-* Swiss Cryptoeconomics
+* [Swiss Cryptoeconomics](https://events.ccc.de/congress/2023/hub/en/assembly/swiss_cryptoeconomics/)
+* Cryptocurrency Hackers
+* [S5 Network](https://events.ccc.de/congress/2023/hub/en/assembly/swiss_cryptoeconomics/)
 
 We also welcome other assemblies and groups in the categories Privacy & Anonymity, Coded Cultures and Open Hardware.
 
