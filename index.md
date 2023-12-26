@@ -29,7 +29,7 @@ The habitat is located in the eastern corner of hall 3 on the ground floor (`c:0
 * [FOSSASIA](https://fossasia.org) - Open-source community in Asia
 * [Swiss Cryptoeconomics](https://events.ccc.de/congress/2023/hub/en/assembly/swiss_cryptoeconomics/)
 * Cryptocurrency Hackers
-* [S5 Network](https://events.ccc.de/congress/2023/hub/en/assembly/swiss_cryptoeconomics/)
+* [S5 Network](https://events.ccc.de/congress/2023/hub/en/assembly/s5-network/)
 
 We also welcome other assemblies and groups in the categories Privacy & Anonymity, Coded Cultures and Open Hardware.
 
