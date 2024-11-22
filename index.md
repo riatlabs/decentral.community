@@ -17,14 +17,14 @@ We are part of the community content team of 38c3 and have put together the [pro
 * [Monerokon](https://monerokon.com) and Monero Community
 * [Replicant](https://replicant.us/) - fully free Android distribution
 * [Namecoin](https://www.namecoin.org/) - decentralized censorship resistant naming system
-* [GNU Boot](https://www.gnu.org/software/gnuboot/web/) - de-shittification for you BIOS and UEFI
+* [GNU Boot](https://www.gnu.org/software/gnuboot/web/) - de-shittification for your BIOS and UEFI
 * [Social Distortion Protocol](https://www.dist0rtion.com/) - ad-hoc riddles and games
 * [FOSSASIA](https://fossasia.org) - Open-source community in Asia
 * [Swiss Cryptoeconomics](https://events.ccc.de/congress/2023/hub/en/assembly/swiss_cryptoeconomics/)
 * [Reticulum](https://reticulum.network/) - Resilient cryptography-based networking stack
 * Off-Grid Messaging  
 
-We also welcome other assemblies and groups in the categories _Privacy & Anonymity_, _Enshittification_ and _Open and verifiable Hardware_.
+We also welcome other assemblies and groups in the categories _Privacy & Anonymity_, _Enshittification_, _Cryptography_ and _Open and Verifiable Hardware_.
 
 <!-- You can find a list of other likeminded groups and projects in our [assembly index]() -->
 
