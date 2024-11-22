@@ -21,8 +21,8 @@ We are part of the community content team of 38c3 and have put together the [pro
 * [Social Distortion Protocol](https://www.dist0rtion.com/) - ad-hoc riddles and games
 * [FOSSASIA](https://fossasia.org) - Open-source community in Asia
 * [Swiss Cryptoeconomics](https://events.ccc.de/congress/2023/hub/en/assembly/swiss_cryptoeconomics/)
-* Reticulum
-* Off-Grid Messaging
+* [Reticulum](https://reticulum.network/) - Resilient cryptography-based networking stack
+* Off-Grid Messaging  
 
 We also welcome other assemblies and groups in the categories _Privacy & Anonymity_, _Enshittification_ and _Open and verifiable Hardware_.
 
