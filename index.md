@@ -13,18 +13,18 @@ We are part of the Community Content Team of 38C3 and helped putting together th
 
 # assemblies
 
-* [RIAT](https://riat.ac.at) - independent decentralisation institute in Vienna
-* [Monerokon](https://monerokon.com) and Monero Community
-* [Replicant](https://replicant.us/) - fully free Android distribution
-* [Namecoin](https://www.namecoin.org/) - decentralized censorship resistant naming system
-* [GNU Boot](https://www.gnu.org/software/gnuboot/web/) - de-shittification for your BIOS and UEFI
-* [Social Distortion Protocol](https://www.dist0rtion.com/) - ad-hoc riddles and games
-* [FOSSASIA](https://fossasia.org) - Open-source community in Asia
-* [Swiss Cryptoeconomics](https://events.ccc.de/congress/2023/hub/en/assembly/swiss_cryptoeconomics/)
-* [Reticulum](https://reticulum.network/) - Resilient cryptography-based networking stack
-* [Radicle](https://radicle.xyz/) - peer-to-peer code collaboration stack built on Git
-* [Crypto Commons](https://www.crypto-commons.org/) - p2p technologies for the stewardship of common goods
-* Off-Grid Messaging  
+* [RIAT](https://riat.at) - independent decentralisation institute in Vienna
+* [MoneroKon](https://monerokon.com) and [Monero](https://www.getmonero.org) Community
+* [Replicant](https://replicant.us) - fully free Android distribution
+* [Namecoin](https://www.namecoin.org) - decentralized tamper-resistant naming system + PKI
+* [GNU Boot](https://www.gnu.org/software/gnuboot/web) - de-shittification for your BIOS and UEFI
+* [Social Dist0rtion Protocol](https://www.dist0rtion.com) - ad-hoc riddles and games
+* [FOSSASIA](https://fossasia.org) - open-source community in Asia
+* [Swiss Cryptoeconomics](https://events.ccc.de/congress/2023/hub/en/assembly/swiss_cryptoeconomics)
+* [Reticulum](https://reticulum.network) - resilient cryptography-based networking stack
+* [Radicle](https://radicle.xyz) - peer-to-peer code collaboration stack built on Git
+* [Crypto Commons](https://www.crypto-commons.org) - P2P technologies for the stewardship of common goods
+* [Off-Grid Messaging](https://matrix.to/#/%23c3ogm%3Astrafpla.net?via=strafpla.net&via=matrix.org&via=hackint.org) - independent networks using LoRa, Meshtastic and Reticulum
 
 We also welcome other assemblies and groups in the categories _Privacy & Anonymity_, _Enshittification_, _Cryptography_ and _Open and Verifiable Hardware_.
 
