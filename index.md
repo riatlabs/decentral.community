@@ -23,6 +23,7 @@ We are part of the community content team of 38c3 and have put together the [pro
 * [Swiss Cryptoeconomics](https://events.ccc.de/congress/2023/hub/en/assembly/swiss_cryptoeconomics/)
 * [Reticulum](https://reticulum.network/) - Resilient cryptography-based networking stack
 * [Radicle](https://radicle.xyz/) - peer-to-peer code collaboration stack built on Git
+* [Crypto Commons](https://www.crypto-commons.org/) - p2p technologies for the stewardship of common goods
 * Off-Grid Messaging  
 
 We also welcome other assemblies and groups in the categories _Privacy & Anonymity_, _Enshittification_, _Cryptography_ and _Open and Verifiable Hardware_.
