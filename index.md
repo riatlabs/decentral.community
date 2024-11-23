@@ -24,7 +24,7 @@ We are part of the Community Content Team of 38C3 and helped putting together th
 * [Reticulum](https://reticulum.network) - resilient cryptography-based networking stack
 * [Radicle](https://radicle.xyz) - peer-to-peer code collaboration stack built on Git
 * [Crypto Commons](https://www.crypto-commons.org) - P2P technologies for the stewardship of common goods
-* [Off-Grid Messaging](https://matrix.to/#/%23c3ogm%3Astrafpla.net?via=strafpla.net&via=matrix.org&via=hackint.org) - independent networks using LoRa, Meshtastic and Reticulum
+* [Off-Grid Messaging](https://matrix.to/#/%23c3ogm%3Astrafpla.net?via=strafpla.net&via=matrix.org&via=hackint.org) - independent networks over LoRa and packet-radio
 
 We also welcome other assemblies and groups in the categories _Privacy & Anonymity_, _Enshittification_, _Cryptography_ and _Open and Verifiable Hardware_.
 
