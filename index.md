@@ -5,7 +5,7 @@
 layout: home
 ---
 
-![Critical Decentralisation at 38C3](/assets/38c3-logo-full-cdc.svg)
+![Critical Decentralisation at 38C3](/assets/38c3-logo-full-cdc.svg){: height="350" .center-image }
 
 The _Critical Decentralisation Cluster_ (CDC) is a group of likeminded assemblies working together to present projects, talks and workshops that critically discuss the future of decentralisation. You can visit us during Dec 27-30 2024 in Hamburg (Germany) at the [38th Chaos Communication Congress](https://en.wikipedia.org/wiki/Chaos_Communication_Congress).
 
