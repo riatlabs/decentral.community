@@ -28,3 +28,15 @@ We are part of the Community Content Team of 38C3 and helped putting together th
 
 We welcome other assemblies in the categories _Privacy & Anonymity_, _Enshittification_, _Cryptography_, _Open and Verifiable Hardware_ and _Peer-to-Peer (P2P) networks and tools_.
 
+# contacts
+
+* Coordination and other talk at [#cdc:dod.ngo](https://matrix.to/#/#cdc:dod.ngo) community on Matrix.\
+  All rooms are bridged to [hackint IRC server](https://hackint.org):
+  * [Main room](https://matrix.to/#/%23cdc-public%3Adod.ngo) bridged to #cdc-38c3
+  * [Coordination](https://matrix.to/#/%23cdc-coordination%3Adod.ngo) > #cdc-38c3-coordination
+  * [Tickets](https://matrix.to/#/%23cdc-tickets%3Adod.ngo) > #cdc-38c3-ticketbörse
+  * [Off-Grid Messaging](https://matrix.to/#/%23c3ogm%3Astrafpla.net) > #38c3-off-grid-messaging
+  * [Watercooler (off-topic)](https://matrix.to/#/%2338c3%3Adod.ngo) > #cdc-38c3-watercooler
+* Email: c3 at RIAT's domain.
+* Talks and workshops submissions: [pretalx.riat.at](https://pretalx.riat.at/38c3/cfp)
+
