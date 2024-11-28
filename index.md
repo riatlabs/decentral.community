@@ -21,6 +21,7 @@ We are part of the Community Content Team of 38C3 and helped putting together th
 * [Social Dist0rtion Protocol](https://www.dist0rtion.com) - ad-hoc riddles and games
 * [FOSSASIA](https://fossasia.org) - open-source community in Asia
 * [Swiss Cryptoeconomics](https://events.ccc.de/congress/2023/hub/en/assembly/swiss_cryptoeconomics)
+* [Department of Decentralisation](https://dod.ngo) - collective from Berlin
 * [Reticulum](https://reticulum.network) - resilient cryptography-based networking stack
 * [Radicle](https://radicle.xyz) - peer-to-peer code collaboration stack built on Git
 * [Crypto Commons](https://www.crypto-commons.org) - P2P technologies for the stewardship of common goods
@@ -40,4 +41,3 @@ We welcome other assemblies in the categories _Privacy & Anonymity_, _Enshittifi
   * [Watercooler (off-topic)](https://matrix.to/#/%2338c3%3Adod.ngo) > #cdc-38c3-watercooler
 * Email: c3 at RIAT's domain.
 * Talks and workshops submissions: [pretalx.riat.at](https://pretalx.riat.at/38c3/cfp)
-
