@@ -22,6 +22,7 @@ We are part of the Community Content Team of 38C3 and helped putting together th
 * [FOSSASIA](https://fossasia.org) - open-source community in Asia
 * [Swiss Cryptoeconomics](https://events.ccc.de/congress/2023/hub/en/assembly/swiss_cryptoeconomics)
 * [Department of Decentralisation](https://dod.ngo) - collective from Berlin
+* [Ethereum](https://events.ccc.de/congress/2024/hub/en/assembly/ethereum/) is a large, world-wide open-source project.
 * [Reticulum](https://reticulum.network) - resilient cryptography-based networking stack
 * [Radicle](https://radicle.xyz) - peer-to-peer code collaboration stack built on Git
 * [Crypto Commons](https://www.crypto-commons.org) - P2P technologies for the stewardship of common goods
