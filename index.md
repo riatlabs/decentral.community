@@ -41,5 +41,6 @@ We welcome other assemblies in the categories _Privacy & Anonymity_, _Enshittifi
   * [Tickets](https://matrix.to/#/%23cdc-tickets%3Adod.ngo) > #cdc-38c3-ticketbörse
   * [Off-Grid Messaging](https://matrix.to/#/%23c3ogm%3Astrafpla.net) > #38c3-off-grid-messaging
   * [Watercooler (off-topic)](https://matrix.to/#/%2338c3%3Adod.ngo) > #cdc-38c3-watercooler
+* [Eventphone](https://guru3.eventphone.de) DECT/SIP: [6441](tel:6441)
 * Email: c3 at RIAT's domain.
 * Talks and workshops submissions: [pretalx.riat.at](https://pretalx.riat.at/38c3/cfp)
