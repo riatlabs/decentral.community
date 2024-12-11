@@ -29,6 +29,7 @@ We are part of the Community Content Team of 38C3 and helped putting together th
 * [Crypto Commons](https://www.crypto-commons.org) - P2P technologies for the stewardship of common goods
 * [Off-Grid Messaging](https://matrix.to/#/%23c3ogm%3Astrafpla.net) - independent networks over LoRa and packet-radio
 * Sibermerdeka - Kuala Lumpur's up-and-coming hackerspace
+* [HSBXL](https://hsbxl.be) - Hackerspace Brussels aka [Squirrel](https://squirrelco.net/squirrel.html)
 
 We welcome other assemblies in the categories _Privacy & Anonymity_, _Enshittification_, _Cryptography_, _Open and Verifiable Hardware_ and _Peer-to-Peer (P2P) networks and tools_.
 
