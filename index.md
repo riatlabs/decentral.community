@@ -27,7 +27,7 @@ We are part of the Community Content Team of 38C3 and helped putting together th
 * [Radicle](https://radicle.xyz) - peer-to-peer code collaboration stack built on Git
 * [Pijul](https://pijul.com) - distributed version control system based on a theory of patches
 * [Crypto Commons](https://www.crypto-commons.org) - P2P technologies for the stewardship of common goods
-* [Off-Grid Messaging](https://matrix.to/#/%23c3ogm%3Astrafpla.net) - independent networks over LoRa and packet-radio
+* [Off-Grid Messaging](https://events.ccc.de/congress/2024/hub/en/assembly/OGM) - independent networks over LoRa and packet-radio
 * Sibermerdeka - Kuala Lumpur's up-and-coming hackerspace
 * [HSBXL](https://hsbxl.be) - Hackerspace Brussels aka [Squirrel](https://squirrelco.net/squirrel.html)
 
