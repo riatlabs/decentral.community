@@ -25,7 +25,6 @@ We are part of the Community Content Team of 38C3 and helped putting together th
 * [Ethereum Foundation](https://ethereum.foundation/ef) - non-profit that supports the [Ethereum](https://ethereum.org) ecosystem
 * [Reticulum](https://reticulum.network) - resilient cryptography-based networking stack
 * [Radicle](https://radicle.xyz) - peer-to-peer code collaboration stack built on Git
-* [Pijul](https://pijul.com) - distributed version control system based on a theory of patches
 * [Crypto Commons](https://www.crypto-commons.org) - P2P technologies for the stewardship of common goods
 * [Off-Grid Messaging](https://events.ccc.de/congress/2024/hub/en/assembly/OGM) - independent networks over LoRa and packet-radio
 * Sibermerdeka - Kuala Lumpur's up-and-coming hackerspace
