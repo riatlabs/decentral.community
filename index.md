@@ -19,6 +19,7 @@ We welcome proposals from our assemblies and any other project fitting the clust
 # assemblies
 
 * [RIAT](https://riat.at) - independent research institute in Vienna
+* [Monero](https://www.getmonero.org) Community
 * [Namecoin](https://www.namecoin.org) - decentralized tamper-resistant naming system + PKI
 * [Swiss Cryptoeconomics](https://events.ccc.de/congress/2024/hub/en/assembly/swiss-crypto-economics)
 * [Social Dist0rtion Protocol](https://www.dist0rtion.com) - ad-hoc riddles and games
@@ -36,3 +37,15 @@ We welcome other assemblies in the categories _Privacy & Anonymity_, _Enshittifi
   * [Off-Grid Messaging](https://matrix.to/#/%23c3ogm%3Astrafpla.net) > #38c3-off-grid-messaging
   * [Watercooler (off-topic)](https://matrix.to/#/%2338c3%3Adod.ngo) > #cdc-38c3-watercooler
 * Email: c3 at RIAT's domain.
+
+# contributing
+
+* **Volunteer work** is essential to keep the cluster going. Tasks range from
+  "keeping our tables tidy" all the way to "operating the A/V setup". All
+  assemblies should be proactive.
+* **Financial support** enables us to build the tools we need. From
+   the high tech recording setup down to low tech items such as furniture.
+   Monero donations are welcomed: [8B5xvYLwUWsiwzNhBeZJkABRgPsYqsR3X8mHVWgphRqQVvM5khLYdfvgyZg2Rhub2uFnoSiVVKTgNKpvDUDVho2BQVyzEDC](monero:8B5xvYLwUWsiwzNhBeZJkABRgPsYqsR3X8mHVWgphRqQVvM5khLYdfvgyZg2Rhub2uFnoSiVVKTgNKpvDUDVho2BQVyzEDC?tx_description=CDC)
+
+![Monero (XMR) donations' address](/assets/donations-monero-qr.png){: height="200" .center-image }
+
