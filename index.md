@@ -22,6 +22,7 @@ We welcome proposals from our assemblies and any other project fitting the clust
 * [Monero](https://www.getmonero.org) Community
 * [Namecoin](https://www.namecoin.org) - decentralized tamper-resistant naming system + PKI
 * [Swiss Cryptoeconomics](https://events.ccc.de/congress/2024/hub/en/assembly/swiss-crypto-economics)
+* [Cyberraum](https://cyberraum.eu) - hackers' group from Hamburg united in the quest to challenge the status quo
 * [Social Dist0rtion Protocol](https://www.dist0rtion.com) - ad-hoc riddles and games
 * [Off-Grid Messaging](https://events.ccc.de/congress/2024/hub/en/assembly/OGM) - independent networks over LoRa and packet-radio
 
