@@ -24,6 +24,7 @@ We welcome proposals from our assemblies and any other project fitting the clust
 * [Swiss Cryptoeconomics](https://events.ccc.de/congress/2024/hub/en/assembly/swiss-crypto-economics)
 * [Cyberraum](https://cyberraum.eu) - hackers' group from Hamburg united in the quest to challenge the status quo
 * [Social Dist0rtion Protocol](https://www.dist0rtion.com) - ad-hoc riddles and games
+* [FOSSASIA](https://fossasia.org) - open-source community in Asia
 * [Off-Grid Messaging](https://events.ccc.de/congress/2024/hub/en/assembly/OGM) - independent networks over LoRa and packet-radio
 
 We welcome other assemblies in the categories _Privacy & Anonymity_, _Enshittification_, _Cryptography_, _Open and Verifiable Hardware_ and _Peer-to-Peer (P2P) networks and tools_.
