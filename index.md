@@ -22,6 +22,7 @@ We welcome proposals from our assemblies and any other project fitting the clust
 * [Monero](https://www.getmonero.org) Community
 * [Namecoin](https://www.namecoin.org) - decentralized tamper-resistant naming system + PKI
 * [Swiss Cryptoeconomics](https://events.ccc.de/congress/2024/hub/en/assembly/swiss-crypto-economics)
+* [I2P](https://geti2p.net) - fully encrypted peer-to-peer overlay network
 * [Cyberraum](https://cyberraum.eu) - hackers' group from Hamburg united in the quest to challenge the status quo
 * [Social Dist0rtion Protocol](https://www.dist0rtion.com) - ad-hoc riddles and games
 * [FOSSASIA](https://fossasia.org) - open-source community in Asia
