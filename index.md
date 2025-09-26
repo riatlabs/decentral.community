@@ -29,6 +29,7 @@ We welcome proposals from our assemblies and any other project fitting the clust
 * [FOSSASIA](https://fossasia.org) - open-source community in Asia
 * [Off-Grid Messaging](https://events.ccc.de/congress/2024/hub/en/assembly/OGM) - independent networks over LoRa and packet-radio
 * [Sibermerdeka](https://sibermerdeka.net) - hackerspace in Kuala Lumpur
+* [Crypto Commons](https://www.crypto-commons.org) - P2P technologies for the stewardship of common goods
 
 We welcome other assemblies in the categories _Privacy & Anonymity_, _Enshittification_, _Cryptography_, _Open and Verifiable Hardware_ and _Peer-to-Peer (P2P) networks and tools_.
 
