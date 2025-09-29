@@ -24,6 +24,7 @@ We welcome proposals from our assemblies and any other project fitting the clust
 * [Swiss Cryptoeconomics](https://events.ccc.de/congress/2024/hub/en/assembly/swiss-crypto-economics)
 * [I2P](https://geti2p.net) - fully encrypted peer-to-peer overlay network
 * [Cyberraum](https://cyberraum.eu) - hackers' group from Hamburg
+* [Radicle](https://radicle.xyz) - peer-to-peer code collaboration stack built on Git
 * [Social Dist0rtion Protocol](https://www.dist0rtion.com) - ad-hoc riddles and games
 * [Firo](https://firo.org) - independent blockchain privacy and decentralization tech research
 * [FOSSASIA](https://fossasia.org) - open-source community in Asia
