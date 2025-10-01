@@ -26,10 +26,12 @@ We welcome proposals from our assemblies and any other project fitting the clust
 * [Cyberraum](https://cyberraum.eu) - hackers' group from Hamburg
 * [Radicle](https://radicle.xyz) - peer-to-peer code collaboration stack built on Git
 * [Social Dist0rtion Protocol](https://www.dist0rtion.com) - ad-hoc riddles and games
+* [GNU Boot](https://www.gnu.org/software/gnuboot/web) - de-shittification for your BIOS and UEFI
 * [Firo](https://firo.org) - independent blockchain privacy and decentralization tech research
 * [FOSSASIA](https://fossasia.org) - open-source community in Asia
 * [Off-Grid Messaging](https://events.ccc.de/congress/2024/hub/en/assembly/OGM) - independent networks over LoRa and packet-radio
 * [Sibermerdeka](https://sibermerdeka.net) - hackerspace in Kuala Lumpur
+* [Replicant](https://replicant.us) - fully free Android distribution
 * [Tropic Square](https://github.com/tropicsquare) - open-source IC designers
 * [Crypto Commons](https://www.crypto-commons.org) - P2P technologies for the stewardship of common goods
 
