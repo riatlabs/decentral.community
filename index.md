@@ -42,11 +42,11 @@ We welcome other assemblies in the categories _Privacy & Anonymity_, _Enshittifi
 
 * Coordination and other talk at [#cdc:dod.ngo](https://matrix.to/#/#cdc:dod.ngo) community on Matrix.\
   All rooms are bridged to [hackint IRC server](https://hackint.org):
-  * [Main room](https://matrix.to/#/%23cdc-public%3Adod.ngo) bridged to #cdc-38c3
-  * [Coordination](https://matrix.to/#/%23cdc-coordination%3Adod.ngo) > #cdc-38c3-coordination
-  * [Tickets](https://matrix.to/#/%23cdc-tickets%3Adod.ngo) > #cdc-38c3-ticketbörse
-  * [Off-Grid Messaging](https://matrix.to/#/%23c3ogm%3Astrafpla.net) > #38c3-off-grid-messaging
-  * [Watercooler (off-topic)](https://matrix.to/#/%2338c3%3Adod.ngo) > #cdc-38c3-watercooler
+  * [Main room](https://matrix.to/#/%23cdc-public%3Adod.ngo) bridged to #critical-decentralization
+  * [Coordination](https://matrix.to/#/%23cdc-coordination%3Adod.ngo) > #cdc-coordination
+  * [Tickets](https://matrix.to/#/%23cdc-tickets%3Adod.ngo) > #cdc-tickets
+  * [Off-Grid Messaging](https://matrix.to/#/%23c3ogm%3Astrafpla.net) > #off-grid-messaging
+  * [Watercooler (off-topic)](https://matrix.to/#/%2338c3%3Adod.ngo) > #cdc-watercooler
 * Email: c3 at RIAT's domain.
 
 # contributing
