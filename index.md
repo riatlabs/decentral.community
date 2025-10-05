@@ -33,6 +33,7 @@ We welcome proposals from our assemblies and any other project fitting the clust
 * [Sibermerdeka](https://sibermerdeka.net) - hackerspace in Kuala Lumpur
 * [Replicant](https://replicant.us) - fully free Android distribution
 * [Tropic Square](https://github.com/tropicsquare) - open-source IC designers
+* Infinite Build - a peer-support group for builders
 * [Crypto Commons](https://www.crypto-commons.org) - P2P technologies for the stewardship of common goods
 
 We welcome other assemblies in the categories _Privacy & Anonymity_, _Enshittification_, _Cryptography_, _Open and Verifiable Hardware_ and _Peer-to-Peer (P2P) networks and tools_.
