@@ -12,8 +12,7 @@ The CDC usually takes shape as an area in Hall H with:
 * 2 workshop areas with public schedule
 * 1 recording area
 
-Talks and workshops submissions are now open at [pretalx.riat.at](https://pretalx.riat.at/39c3/cfp).
-
+Talks and workshops submissions are now open at [pretalx.riat.at](https://pretalx.riat.at/39c3/cfp).\
 We welcome proposals from our assemblies and any other project fitting the cluster themes' (decentralization, privacy & anonymity and open hardware).
 
 # assemblies
@@ -52,7 +51,6 @@ We welcome other assemblies in the categories _Privacy & Anonymity_, _Enshittifi
 
 # contributing
 
-**Volunteer work** is essential to keep the cluster going.
-
+**Volunteer work** is essential to keep the cluster going.\
 Checkout our [Org Mode todo list](https://github.com/riatlabs/todo-cdc) for an
 up-to-date view on what needs to be done.
