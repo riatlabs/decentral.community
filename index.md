@@ -52,12 +52,7 @@ We welcome other assemblies in the categories _Privacy & Anonymity_, _Enshittifi
 
 # contributing
 
-* **Volunteer work** is essential to keep the cluster going. Tasks range from
-  "keeping our tables tidy" all the way to "operating the A/V setup". All
-  assemblies should be proactive.
-* **Financial support** enables us to build the tools we need. From
-   the high tech recording setup down to low tech items such as furniture.
-   Monero donations are welcomed: [8B5xvYLwUWsiwzNhBeZJkABRgPsYqsR3X8mHVWgphRqQVvM5khLYdfvgyZg2Rhub2uFnoSiVVKTgNKpvDUDVho2BQVyzEDC](monero:8B5xvYLwUWsiwzNhBeZJkABRgPsYqsR3X8mHVWgphRqQVvM5khLYdfvgyZg2Rhub2uFnoSiVVKTgNKpvDUDVho2BQVyzEDC?tx_description=CDC)
+**Volunteer work** is essential to keep the cluster going.
 
-![Monero (XMR) donations' address](/assets/donations-monero-qr.png){: height="200" .center-image }
-
+Checkout our [Org Mode todo list](https://github.com/riatlabs/todo-cdc) for an
+up-to-date view on what needs to be done.
