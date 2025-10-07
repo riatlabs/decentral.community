@@ -4,7 +4,7 @@ layout: home
 
 ![Critical Decentralisation logo](/assets/logo-full-cdc.svg){: height="200" width="500" .center-image }
 
-The _Critical Decentralisation Cluster_ (CDC) is a group of likeminded assemblies working together to present projects, talks and workshops that critically discuss the future of decentralisation. You can visit us during Dec 27-30 2025 in Hamburg (Germany) at the [39th Chaos Communication Congress](https://en.wikipedia.org/wiki/Chaos_Communication_Congress).
+The _Critical Decentralization Cluster_ (CDC) is a host of individuals and projects that come together to disrupt existing ecosystems with cypherpunk ideals. We assemble to present talks and workshops that critically discuss the future of decentralization. You can visit us during Dec 27-30 2025 in Hamburg (Germany) at the [39th Chaos Communication Congress](https://en.wikipedia.org/wiki/Chaos_Communication_Congress).
 
 The CDC usually takes shape as an area in Hall H with:
 * tables and seats for ca. 120 people
