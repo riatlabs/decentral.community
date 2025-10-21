@@ -35,6 +35,7 @@ We welcome proposals from our assemblies and any other project fitting the clust
 * Infinite Build - a peer-support group for builders
 * [Crypto Commons](https://www.crypto-commons.org) - P2P technologies for the stewardship of common goods
 * [BORDEL](https://bordel.wtf) - hackerspace in Prague
+* Cat Pictures Data Distribution Hub - challenges with cute kitty pictures as rewards
 
 We welcome other assemblies in the categories _Privacy & Anonymity_, _Enshittification_, _Cryptography_, _Open and Verifiable Hardware_ and _Peer-to-Peer (P2P) networks and tools_.
 
