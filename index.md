@@ -27,6 +27,7 @@ We welcome proposals from our assemblies and any other project fitting the clust
 * [Social Dist0rtion Protocol](https://www.dist0rtion.com) - ad-hoc riddles and games
 * [GNU Boot](https://www.gnu.org/software/gnuboot/web) - de-shittification for your BIOS and UEFI
 * [Firo](https://firo.org) - independent blockchain privacy and decentralization tech research
+* [Iroh](https://www.iroh.computer) - library and protocol stacks to build next-gen p2p networks
 * [FOSSASIA](https://fossasia.org) - open-source community in Asia
 * [Off-Grid Messaging](https://events.ccc.de/congress/2024/hub/en/assembly/OGM) - independent networks over LoRa and packet-radio
 * [Sibermerdeka](https://sibermerdeka.net) - hackerspace in Kuala Lumpur
