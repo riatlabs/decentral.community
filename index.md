@@ -50,7 +50,7 @@ We welcome other assemblies in the categories _Privacy & Anonymity_, _Enshittifi
   * [#cdc-coordination:dod.ngo](https://matrix.to/#/%23cdc-coordination%3Adod.ngo) > #cdc-coordination
   * [#cdc-tickets:dod.ngo](https://matrix.to/#/%23cdc-tickets%3Adod.ngo) > #cdc-tickets
   * [#c3ogm:strafpla.net](https://matrix.to/#/%23c3ogm%3Astrafpla.net) > #off-grid-messaging
-  * [#38c3:dod.ngo](https://matrix.to/#/%2338c3%3Adod.ngo) > #cdc-watercooler (off-topic discussions)
+  * [#cdc-watercooler:dod.ngo](https://matrix.to/#/%2338c3%3Adod.ngo) > #cdc-watercooler (off-topic discussions)
 * Email: c3 at RIAT's domain.
 
 # contributing
