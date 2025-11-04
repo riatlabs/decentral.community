@@ -92,6 +92,17 @@ img {
   display: block;
 }
 
+.cdc-embed--center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.cdc-embed-spacer {
+    height: 1.5rem;
+}
+
 /**
  * Figures
  */
@@ -275,6 +286,29 @@ table td {
 }
 .site-title, .site-title:visited {
   color: rgb(66.25, 66.25, 66.25);
+}
+
+.site-logo {
+  float: left;
+  display: inline-flex;
+  align-items: center;
+  margin-bottom: 0;
+  text-decoration: none;
+  line-height: 54px;
+}
+.site-logo:focus {
+  outline: 2px solid #6A5FDB;
+  outline-offset: 4px;
+}
+.site-logo-embed {
+  all: unset;
+  display: inline-flex;
+  align-items: center;
+}
+.site-logo-embed *,
+.site-logo-embed *::before,
+.site-logo-embed *::after {
+  all: unset;
 }
 
 .site-nav {
