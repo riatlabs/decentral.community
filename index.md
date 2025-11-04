@@ -36,7 +36,7 @@ We welcome proposals from our assemblies and any other project fitting the clust
 * [Radicle](https://radicle.xyz) - peer-to-peer code collaboration stack built on Git
 * [Social Dist0rtion Protocol](https://www.dist0rtion.com) - ad-hoc riddles and games
 * [GNU Boot](https://www.gnu.org/software/gnuboot/web) - de-shittification for your BIOS and UEFI
-* [Department of Decentralisation](https://dod.ngo) - collective from Berlin
+* [Department of Decentralisation](https://dod.ngo) - collective from Berlin — coordination on [#39c3-asm:dod.ngo](https://matrix.to/#/%2339c3-asm%3Adod.ngo)
 * [Firo](https://firo.org) - independent blockchain privacy and decentralization tech research
 * [Iroh](https://www.iroh.computer) - library and protocol stacks to build next-gen p2p networks
 * [FOSSASIA](https://fossasia.org) - open-source community in Asia
