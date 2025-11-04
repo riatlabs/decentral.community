@@ -2,9 +2,19 @@
 layout: home
 ---
 
-![Critical Decentralisation logo](/assets/logo-full-cdc.svg){: height="200" width="500" .center-image }
+<link rel="stylesheet" href="https://l5yth.github.io/39c3-cdc/39C3-Embeds/39C3-TypeMotions.css">
+<div class="cdc-embed cdc-embed--center">
+  <div class="black">
+    <p class="cdc-type anim6">
+      <span>&lt;&lt;CCC</span><span>D</span><span>&lt;&lt;CCC</span><span>D</span><span>&lt;&lt;CCC</span><span>D</span><span>&lt;&lt;CCC</span><span>D</span><br>
+      <span>D</span><span>&lt;&lt;CCC</span><span>D</span><span>&lt;&lt;CCC</span><span>D</span><span>&lt;&lt;CCC</span><span>D</span><span>&lt;&lt;CCC</span>
+    </p>
+  </div>
+</div>
+<script src="https://l5yth.github.io/39c3-cdc/39C3-Embeds/39C3-TypeMotions.js" defer=""></script>
+<div class="cdc-embed-spacer" aria-hidden="true"></div>
 
-The _Critical Decentralization Cluster_ (CDC) is a host of individuals and projects that come together to disrupt existing ecosystems with cypherpunk ideals. We assemble to present talks and workshops that critically discuss the future of decentralization. You can visit us during Dec 27-30 2025 in Hamburg (Germany) at the [39th Chaos Communication Congress](https://en.wikipedia.org/wiki/Chaos_Communication_Congress).
+The _Critical Decentralization Cluster_ (CDC) is a host of individuals and projects that come together to disrupt existing ecosystems with cypherpunk ideals. We assemble to present talks and workshops that critically discuss the future of decentralization. You can visit us during Dec 27-30 2025 in Hamburg (Germany) at the [39th Chaos Communication Congress](https://en.wikipedia.org/wiki/Chaos_Communication_Congress). Read more about our plans on the [39C3 page](/39C3/).
 
 The CDC usually takes shape as an area in Hall H with:
 * tables and seats for ca. 120 people
@@ -20,7 +30,7 @@ We welcome proposals from our assemblies and any other project fitting the clust
 * [RIAT](https://riat.at) - independent research institute in Vienna
 * [Monero](https://www.getmonero.org) Community
 * [Namecoin](https://www.namecoin.org) - decentralized tamper-resistant naming system + PKI
-* [Swiss Cryptoeconomics](https://events.ccc.de/congress/2024/hub/en/assembly/swiss-crypto-economics)
+* [Swiss Cryptoeconomics](https://events.ccc.de/congress/2025/hub/en/assembly/swiss-crypto-economics)
 * [I2P](https://geti2p.net) - fully encrypted peer-to-peer overlay network
 * [Cyberraum](https://cyberraum.eu) - hackers' group from Hamburg
 * [Radicle](https://radicle.xyz) - peer-to-peer code collaboration stack built on Git
@@ -30,7 +40,7 @@ We welcome proposals from our assemblies and any other project fitting the clust
 * [Firo](https://firo.org) - independent blockchain privacy and decentralization tech research
 * [Iroh](https://www.iroh.computer) - library and protocol stacks to build next-gen p2p networks
 * [FOSSASIA](https://fossasia.org) - open-source community in Asia
-* [Off-Grid Messaging](https://events.ccc.de/congress/2024/hub/en/assembly/OGM) - independent networks over LoRa and packet-radio
+* [Off-Grid Messaging](https://events.ccc.de/congress/2025/hub/en/assembly/OGM) - independent networks over LoRa and packet-radio
 * [Ethereum Foundation](https://ethereum.foundation/ef) - non-profit that supports the Ethereum ecosystem
 * [Sibermerdeka](https://sibermerdeka.net) - hackerspace in Kuala Lumpur
 * [Replicant](https://replicant.us) - fully free Android distribution
@@ -51,7 +61,7 @@ We welcome other assemblies in the categories _Privacy & Anonymity_, _Enshittifi
   * [#cdc-coordination:dod.ngo](https://matrix.to/#/%23cdc-coordination%3Adod.ngo) > #cdc-coordination
   * [#cdc-tickets:dod.ngo](https://matrix.to/#/%23cdc-tickets%3Adod.ngo) > #cdc-tickets
   * [#c3ogm:strafpla.net](https://matrix.to/#/%23c3ogm%3Astrafpla.net) > #off-grid-messaging
-  * [#cdc-watercooler:dod.ngo](https://matrix.to/#/%2338c3%3Adod.ngo) > #cdc-watercooler (off-topic discussions)
+  * [#cdc-watercooler:dod.ngo](https://matrix.to/#/%2339c3%3Adod.ngo) > #cdc-watercooler (off-topic discussions)
 * Email: c3 at RIAT's domain.
 
 # contributing
