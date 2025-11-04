@@ -30,17 +30,17 @@ We welcome proposals from our assemblies and any other project fitting the clust
 * [RIAT](https://riat.at) - independent research institute in Vienna
 * [Monero](https://www.getmonero.org) Community
 * [Namecoin](https://www.namecoin.org) - decentralized tamper-resistant naming system + PKI
-* [Swiss Cryptoeconomics](https://events.ccc.de/congress/2025/hub/en/assembly/swiss-crypto-economics)
+* Swiss Cryptoeconomics
 * [I2P](https://geti2p.net) - fully encrypted peer-to-peer overlay network
 * [Cyberraum](https://cyberraum.eu) - hackers' group from Hamburg
 * [Radicle](https://radicle.xyz) - peer-to-peer code collaboration stack built on Git
 * [Social Dist0rtion Protocol](https://www.dist0rtion.com) - ad-hoc riddles and games
 * [GNU Boot](https://www.gnu.org/software/gnuboot/web) - de-shittification for your BIOS and UEFI
-* [Department of Decentralisation](https://dod.ngo) - collective from Berlin — coordination on [#39c3-asm:dod.ngo](https://matrix.to/#/%2339c3-asm%3Adod.ngo)
+* [Department of Decentralisation](https://dod.ngo) - collective from Berlin
 * [Firo](https://firo.org) - independent blockchain privacy and decentralization tech research
-* [Iroh](https://www.iroh.computer) - library and protocol stacks to build next-gen p2p networks
+* [Iroh](https://www.iroh.computer) - library and protocol stacks to build next-gen P2P networks
 * [FOSSASIA](https://fossasia.org) - open-source community in Asia
-* [Off-Grid Messaging](https://events.ccc.de/congress/2025/hub/en/assembly/OGM) - independent networks over LoRa and packet-radio
+* Off-Grid Messaging - independent networks over LoRa and packet-radio
 * [Ethereum Foundation](https://ethereum.foundation/ef) - non-profit that supports the Ethereum ecosystem
 * [Sibermerdeka](https://sibermerdeka.net) - hackerspace in Kuala Lumpur
 * [Replicant](https://replicant.us) - fully free Android distribution
@@ -48,7 +48,7 @@ We welcome proposals from our assemblies and any other project fitting the clust
 * Infinite Build - a peer-support group for builders
 * [Crypto Commons](https://www.crypto-commons.org) - P2P technologies for the stewardship of common goods
 * [BORDEL](https://bordel.wtf) - hackerspace in Prague
-* [Gosling](https://gosling.technology) - p2p over Tor onion services
+* [Gosling](https://gosling.technology) - P2P over Tor onion services
 * Cat Pictures Data Distribution Hub - challenges with cute kitty pictures as rewards
 
 We welcome other assemblies in the categories _Privacy & Anonymity_, _Enshittification_, _Cryptography_, _Open and Verifiable Hardware_ and _Peer-to-Peer (P2P) networks and tools_.
@@ -61,7 +61,8 @@ We welcome other assemblies in the categories _Privacy & Anonymity_, _Enshittifi
   * [#cdc-coordination:dod.ngo](https://matrix.to/#/%23cdc-coordination%3Adod.ngo) > #cdc-coordination
   * [#cdc-tickets:dod.ngo](https://matrix.to/#/%23cdc-tickets%3Adod.ngo) > #cdc-tickets
   * [#c3ogm:strafpla.net](https://matrix.to/#/%23c3ogm%3Astrafpla.net) > #off-grid-messaging
-  * [#cdc-watercooler:dod.ngo](https://matrix.to/#/%2339c3%3Adod.ngo) > #cdc-watercooler (off-topic discussions)
+  * [#cdc-watercooler:dod.ngo](https://matrix.to/#/%23cdc-watercooler%3Adod.ngo) > #cdc-watercooler (off-topic discussions)
+  * [#39c3-asm:dod.ngo](https://matrix.to/#/%2339c3-asm%3Adod.ngo) - DoD assembly
 * Email: c3 at RIAT's domain.
 
 # contributing
