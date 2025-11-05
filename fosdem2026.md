@@ -24,10 +24,11 @@ foster decentralization and privacy on the Internet, or try to replace it for
 something new altogether. We also welcome those working on securing the
 devices, operating systems and user-facing software we use to access The Net.
 
-For those unaware, FOSDEM is an annual conference on free and open source
-software, attended by over 5000 developers and enthusiasts from all over the
+For those new to it, FOSDEM is an annual conference on free and open source
+software, attended by over 8000 developers and enthusiasts from all over the
 world. It takes place in Brussels (Belgium) at the [ULB (Campus
-Solbosch)](https://www.openstreetmap.org/node/1632534522).\
+Solbosch)](https://www.openstreetmap.org/node/1632534522). It is a
+community-driven event and entry is free of charge.\
 Beyond the main programme, FOSDEM supports dozens of devrooms, mini
 conferences-within-a-conference, dedicated to discussing a specific theme.
 
