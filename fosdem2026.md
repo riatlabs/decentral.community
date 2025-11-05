@@ -33,7 +33,7 @@ conferences-within-a-conference, dedicated to discussing a specific theme.
 
 In 2026 FOSDEM will happen on the weekend of January 31st and February 1st.
 The Decentralized Internet and Privacy Devroom itself will run during the entire
-day of Sunday, February 1st 2026.
+day of Sunday, February 1 2026.
 
 ## Scope of Talks
 Presentation topics may include:
@@ -77,9 +77,9 @@ making sure to select "Decentralized Internet and Privacy" in the Track
 dropdown.
 
 ## Key dates
-- Submission deadline: November 31st 2025 23:59 CET
-- Announcement of selected talks: December 15th 2025
-- Devroom day: February 1st 2026 (full day)
+- Submission deadline: December 7 2025, 23:59 CET
+- Announcement of selected talks: December 15 2025
+- Devroom day: February 1 2026 (full day)
 
 ## Contacts
 You can reach us at [`#cdc-public:dod.ngo`](https://matrix.to/#/%23cdc-public%3Adod.ngo)
