@@ -60,7 +60,7 @@ We welcome other assemblies in the categories _Privacy & Anonymity_, _Enshittifi
   * [#cdc-public:dod.ngo](https://matrix.to/#/%23cdc-public%3Adod.ngo) bridged to #critical-decentralization
   * [#cdc-coordination:dod.ngo](https://matrix.to/#/%23cdc-coordination%3Adod.ngo) > #cdc-coordination
   * [#cdc-tickets:dod.ngo](https://matrix.to/#/%23cdc-tickets%3Adod.ngo) > #cdc-tickets
-  * [#c3ogm:strafpla.net](https://matrix.to/#/%23c3ogm%3Astrafpla.net) > #off-grid-messaging
+  * [#c3ogm:matrix.org](https://matrix.to/#/%23c3ogm%3Amatrix.org) > #off-grid-messaging
   * [#cdc-watercooler:dod.ngo](https://matrix.to/#/%23cdc-watercooler%3Adod.ngo) > #cdc-watercooler (off-topic discussions)
   * [#39c3-asm:dod.ngo](https://matrix.to/#/%2339c3-asm%3Adod.ngo) - DoD assembly
 * Email: c3 at RIAT's domain.
