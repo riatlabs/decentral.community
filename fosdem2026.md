@@ -77,6 +77,10 @@ Talks should be submitted on the [FOSDEM pretalx](https://pretalx.fosdem.org/fos
 making sure to select "Decentralized Internet and Privacy" in the Track
 dropdown.
 
+Use the submission notes to let us know about:
+- the talk duration (25 min or 50 min)
+- links to code, slides or other resources for the talk
+
 ## Key dates
 - Submission deadline: December 7 2025, 23:59 CET
 - Announcement of selected talks: December 15 2025
