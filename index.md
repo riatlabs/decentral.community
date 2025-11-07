@@ -24,7 +24,7 @@ The decentral.community takes physical shape as the _Critical Decentralization
 Cluster_ (CDC) at the [Chaos Communication Congress](https://en.wikipedia.org/wiki/Chaos_Communication_Congress)
 in Hamburg (Germany). Read more about our plans on the [39C3 page](/39C3/).
 
-We will also organize the [Decentralized Internet and Privacy Devroom at FOSDEM 2026](/FOSDEM2026/).
+We are also organizing the [Decentralized Internet and Privacy Devroom at FOSDEM 2026](/FOSDEM2026/).
 
 # contacts
 * Matrix: [#cdc-public:dod.ngo](https://matrix.to/#/%23cdc-public%3Adod.ngo)
