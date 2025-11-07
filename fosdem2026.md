@@ -91,4 +91,4 @@ You can reach us at [`#cdc-public:dod.ngo`](https://matrix.to/#/%23cdc-public%3A
 on Matrix.\
 This room is bridged to `#critical-decentralization` on [hackint IRC server](https://hackint.org).
 
-* Email: c3 at riat dot at
+* Email: decentralized-internet-and-privacy-devroom-manager at fosdem.org
