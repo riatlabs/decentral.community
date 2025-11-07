@@ -296,6 +296,9 @@ table td {
   text-decoration: none;
   line-height: 54px;
 }
+.site-logo .cdc-type {
+  font-size: 50px;
+}
 .site-logo:focus {
   outline: 2px solid #6A5FDB;
   outline-offset: 4px;
