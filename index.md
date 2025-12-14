@@ -26,6 +26,11 @@ in Hamburg (Germany). Read more about our plans on the [39C3 page](/39C3/).
 
 We are also organizing the [Decentralized Internet and Privacy Devroom at FOSDEM 2026](/FOSDEM2026/).
 
+# open calls
+- Workshops and talks for the Critical Decentralization Cluster @ 39C3\
+  Submissions at: [pretalx.riat.at](https://pretalx.riat.at/39c3/cfp)\
+  Deadline: December 18 2025 23:59 CET
+
 # contacts
 * Matrix: [#cdc-public:dod.ngo](https://matrix.to/#/%23cdc-public%3Adod.ngo)
 * IRC: `#critical-decentralization` on [hackint IRC server](https://hackint.org)
