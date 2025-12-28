@@ -22,14 +22,16 @@ statement](/mission/).
 
 The decentral.community takes physical shape as the _Critical Decentralization
 Cluster_ (CDC) at the [Chaos Communication Congress](https://en.wikipedia.org/wiki/Chaos_Communication_Congress)
-in Hamburg (Germany). Read more about our plans on the [39C3 page](/39C3/).
+in Hamburg (Germany).\
+Full schedule of our sessions at: [https://pretalx.riat.at/39c3/schedule](https://pretalx.riat.at/39c3/schedule)\
+Read more about our plans on the [39C3 page](/39C3/).
 
 We are also organizing the [Decentralized Internet and Privacy Devroom at FOSDEM 2026](/FOSDEM2026/).
 
 # open calls
-- Workshops and talks for the Critical Decentralization Cluster @ 39C3\
-  Submissions at: [pretalx.riat.at](https://pretalx.riat.at/39c3/cfp)\
-  Deadline: December 18 2025 23:59 CET
+- Last minute submissions for the Critical Decentralization Cluster @ 39C3\
+  [pretalx.riat.at](https://pretalx.riat.at/39c3/cfp?access_code=LASTMINUTESUBMISSIONS8XPRLFLT8)\
+  Running until Dec 30 16:30 CET.
 
 # contacts
 * Matrix: [#cdc-public:dod.ngo](https://matrix.to/#/%23cdc-public%3Adod.ngo)
