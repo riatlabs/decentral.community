@@ -15,9 +15,9 @@ GEM
     erb (4.0.4)
       cgi (>= 0.3.3)
     eventmachine (1.2.7)
-    ffi (1.17.2)
+    ffi (1.17.3)
     forwardable-extended (2.6.0)
-    google-protobuf (4.33.0)
+    google-protobuf (4.33.1)
       bigdecimal
       rake (>= 13)
     http_parser.rb (0.8.0)

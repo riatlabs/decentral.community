@@ -21,17 +21,13 @@ _Peer-to-Peer (P2P) networks and tools_. Learn more about us on our [mission
 statement](/mission/).
 
 The decentral.community takes physical shape as the _Critical Decentralization
-Cluster_ (CDC) at the [Chaos Communication Congress](https://en.wikipedia.org/wiki/Chaos_Communication_Congress)
+Cluster_ (CDC) at the annual [Chaos Communication Congress](https://en.wikipedia.org/wiki/Chaos_Communication_Congress)
 in Hamburg (Germany).\
-Full schedule of our sessions at: [https://pretalx.riat.at/39c3/schedule](https://pretalx.riat.at/39c3/schedule)\
-Read more about our plans on the [39C3 page](/39C3/).
+You can access the content we brought to Congress at our C3 pages:\
+[32-34C3](/34C3/) [35C3](/35C3/) [36C3](/36C3/) [37C3](/37C3/) [38C3](/38C3/)
+[39C3](/39C3/)
 
 We are also organizing the [Decentralized Internet and Privacy Devroom at FOSDEM 2026](/FOSDEM2026/).
-
-# open calls
-- Last minute submissions for the Critical Decentralization Cluster @ 39C3\
-  [pretalx.riat.at](https://pretalx.riat.at/39c3/cfp?access_code=LASTMINUTESUBMISSIONS8XPRLFLT8)\
-  Running until Dec 30 16:30 CET.
 
 # contacts
 * Matrix: [#cdc-public:dod.ngo](https://matrix.to/#/%23cdc-public%3Adod.ngo)
