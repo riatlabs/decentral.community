@@ -16,6 +16,12 @@ themes that will be discussed throughout the day.
 We encourage everyone to join us either on-site or remotely through the [FOSDEM
 live stream](https://fosdem.org/2026/schedule/streaming/).
 
+## Contacts
+You can reach us at [`#2026-decentralized-internet-and-privacy:fosdem.org`](https://matrix.to/#/%232026-decentralized-internet-and-privacy%3Afosdem.org)
+on Matrix.
+
+Email: decentralized-internet-and-privacy-devroom-manager at fosdem.org
+
 # Call for Participation
 The Internet landscape is evermore on it's steadfast course towards surveillance
 and centralization. Video content and streaming out of CDNs now account for half
@@ -96,10 +102,3 @@ Use the submission notes to let us know about:
 - Submission deadline: December 7 2025, 23:59 CET
 - Announcement of selected talks: December 15 2025
 - Devroom day: February 1 2026 (full day)
-
-## Contacts
-You can reach us at [`#cdc-public:dod.ngo`](https://matrix.to/#/%23cdc-public%3Adod.ngo)
-on Matrix.\
-This room is bridged to `#critical-decentralization` on [hackint IRC server](https://hackint.org).
-
-* Email: decentralized-internet-and-privacy-devroom-manager at fosdem.org
