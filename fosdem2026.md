@@ -5,22 +5,12 @@ nav_title: FOSDEM2026
 permalink: /FOSDEM2026/
 ---
 
-Submissions are now closed. The devroom will take place at room [UD2.218A](https://fosdem.org/2026/schedule/room/ud2218a/)
-on Sunday, February 1st 2026 from 9:00 to 17:00 (CET).
+The devroom took place on February 1st 2026 from 9:00 to 17:00 (CET).
 
-Full schedule available at: [https://fosdem.org/2026/schedule/track/decentralized-internet-and-privacy/](https://fosdem.org/2026/schedule/track/decentralized-internet-and-privacy/)
+Full schedule and video recordings available at: [https://fosdem.org/2026/schedule/track/decentralized-internet-and-privacy/](https://fosdem.org/2026/schedule/track/decentralized-internet-and-privacy/)
 
-You may read our Call for Participation down bellow to get a good grasp of the
-themes that will be discussed throughout the day.
-
-We encourage everyone to join us either on-site or remotely through the [FOSDEM
-live stream](https://fosdem.org/2026/schedule/streaming/).
-
-## Contacts
-You can reach us at [`#2026-decentralized-internet-and-privacy:fosdem.org`](https://matrix.to/#/%232026-decentralized-internet-and-privacy%3Afosdem.org)
-on Matrix.
-
-Email: decentralized-internet-and-privacy-devroom-manager at fosdem.org
+Our Call for Participation is archived down bellow to help you get a grasp of
+the themes that were be discussed throughout the day.
 
 # Call for Participation
 The Internet landscape is evermore on it's steadfast course towards surveillance
