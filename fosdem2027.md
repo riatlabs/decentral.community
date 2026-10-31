@@ -13,13 +13,11 @@ with them when they fail. States are building their own splinternets:
 Russia blocks WhatsApp and pushes its state messenger MAX, Iran
 imposed the longest nationwide shutdown on record in January 2026. The
 EU's Chat Control keeps coming back, with client-side scanning and
-detection orders threatening end-to-end encryption.
-
+detection orders threatening end-to-end encryption.\
 Age-verification laws are turning everyday services into identity
 checkpoints, Google is moving to require registration even for
 sideloaded Android apps, and the AI industry treats the open web as
-raw material.
-
+raw material.\
 In this scenario, where most Internet-connected devices have become
 tools of imprisonment rather than liberation, reviving the old
 Internet ethos of peer-to-peer (P2P) and private communication is of
@@ -52,8 +50,8 @@ consolidation - and in projects that offer practical alternatives.
 Presentation topics may include:
 - ad-hoc and mesh networks
 - community run ISPs and networks
-- anonymous overlay networks, censorship circumvention, and shutdown-resistant
-  connectivity
+- anonymous overlay networks
+- censorship circumvention and shutdown-resistant connectivity
 - cryptography-based network stacks and protocols (e.g. public key as identity)
 - post-quantum migration for private communication
 
@@ -93,7 +91,7 @@ making sure to select "Decentralized Internet and Privacy" in the Track
 dropdown.
 
 Use the submission notes to let us know about links to code, slides or other
-resources for the talk
+resources for the talk.
 
 ## Key dates
 - Submission deadline: December 2 2026, 23:59 CET
