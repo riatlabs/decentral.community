@@ -27,7 +27,13 @@ You can access the content we brought to Congress at our C3 pages:\
 [32-34C3](/34C3/) [35C3](/35C3/) [36C3](/36C3/) [37C3](/37C3/) [38C3](/38C3/)
 [39C3](/39C3/)
 
-We are also organizing the [Decentralized Internet and Privacy Devroom at FOSDEM 2026](/FOSDEM2026/).
+We also organize the _Decentralized Internet and Privacy Devroom_
+at [FOSDEM](https://en.wikipedia.org/wiki/FOSDEM).\
+Check out the content at our FOSDEM pages: [FOSDEM2026](/FOSDEM2026/)
+[FOSDEM2027](/FOSDEM2027/)
+
+# Open Calls
+* [FOSDEM 2027](/FOSDEM2027/), deadline: December 2nd 2026 23:59 CET
 
 # contacts
 * Matrix: [#cdc-public:dod.ngo](https://matrix.to/#/%23cdc-public%3Adod.ngo)
