@@ -32,6 +32,7 @@ Check out the content at our FOSDEM pages: [FOSDEM2026](/FOSDEM2026/)
 [FOSDEM2027](/FOSDEM2027/)
 
 # Open Calls
+* [40C3](/40C3/), _to be announced._
 * [FOSDEM 2027](/FOSDEM2027/), deadline: December 2nd 2026 23:59 CET
 
 # contacts
