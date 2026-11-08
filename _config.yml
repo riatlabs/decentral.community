@@ -8,6 +8,19 @@ url: "https://decentral.community"
 twitter_username: jekyllrb
 github_username:  jekyll
 
+# Nav order, oldest event first. A page missing here is not in the nav.
+header_pages:
+  - 34c3.md
+  - 35c3.md
+  - 36c3.md
+  - 37c3.md
+  - 38c3.md
+  - 39c3.md
+  - fosdem2026.md
+  - 40c3.md
+  - fosdem2027.md
+  - mission.md
+
 # Build settings
 theme: minima
 plugins: []
