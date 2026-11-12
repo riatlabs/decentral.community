@@ -92,13 +92,6 @@ img {
   display: block;
 }
 
-.cdc-embed--center {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-}
-
 .cdc-embed-spacer {
     height: 1.5rem;
 }
@@ -288,32 +281,6 @@ table td {
   color: rgb(66.25, 66.25, 66.25);
 }
 
-.site-logo {
-  float: left;
-  display: inline-flex;
-  align-items: center;
-  margin-bottom: 0;
-  text-decoration: none;
-  line-height: 54px;
-}
-.site-logo .cdc-type {
-  font-size: 50px;
-}
-.site-logo:focus {
-  outline: 2px solid #6A5FDB;
-  outline-offset: 4px;
-}
-.site-logo-embed {
-  all: unset;
-  display: inline-flex;
-  align-items: center;
-}
-.site-logo-embed *,
-.site-logo-embed *::before,
-.site-logo-embed *::after {
-  all: unset;
-}
-
 .site-nav {
   float: right;
   line-height: 54px;
@@ -373,6 +340,29 @@ table td {
     display: block;
     margin-left: 20px;
     padding: 5px 10px;
+  }
+  .site-nav .page-link:not(:last-child) {
+    margin-right: 0;
+  }
+}
+
+/* Above the hamburger breakpoint the links wrap into a right-aligned block. */
+@media screen and (min-width: 601px) {
+  .site-nav {
+    display: flex;
+    align-items: center;
+    min-height: 54px;
+  }
+  .site-nav .trigger {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    column-gap: 20px;
+    max-width: 470px;
+    line-height: 27px;
+  }
+  .site-nav .page-link {
+    line-height: inherit;
   }
   .site-nav .page-link:not(:last-child) {
     margin-right: 0;
@@ -723,6 +713,186 @@ table td {
 }
 .highlight .il {
   color: #099;
+}
+
+/**
+ * 40C3 specific
+ */
+
+@font-face {
+    font-family: 'hack';
+    font-weight: 700;
+    src: URL('/assets/fonts/Hack-Bold.woff2') format('woff2');
+}
+
+/* Dark box behind the landing hero and the 40C3 event page banner. */
+.cdc-box {
+    background-color: #001300;
+    border: 2px solid #ea6f82;
+}
+
+.cdc-banner-logo {
+    display: flex;
+    justify-content: center;
+    padding: 40px 32px 32px;
+}
+
+/* The logo is 150px tall at this width and shrinks with the box on phones. */
+.cdc-banner-logo img {
+    display: block;
+    width: 449.2px;
+    max-width: 100%;
+    height: auto;
+}
+
+.cdc-strip {
+    height: 105px;
+    overflow: hidden;
+}
+
+/* Six 380px tiles: moving by three of them lands on an identical frame. */
+.cdc-conveyor {
+    display: flex;
+    width: 2280px;
+}
+
+.cdc-conveyor img {
+    display: block;
+    flex: none;
+    width: 380px;
+    height: 105px;
+}
+
+@keyframes cdc-conveyor {
+    to {
+        transform: translateX(-1140px);
+    }
+}
+
+/*
+ * Landing hero. Its sizes are multiples of --cdc-u, one design pixel, so the
+ * block shrinks as a whole on phones: 537 is its widest state in design pixels,
+ * cursor included, and 34px is the page gutter plus the box border.
+ */
+.cdc-hero {
+    --cdc-u: min(1px, calc((100vw - 34px) / 537));
+    display: flex;
+    justify-content: center;
+    gap: calc(20 * var(--cdc-u));
+    padding: calc(32 * var(--cdc-u));
+    color: #ea6f82;
+}
+
+.cdc-hero-mark {
+    display: block;
+    flex: none;
+    width: auto;
+    height: calc(150 * var(--cdc-u));
+}
+
+.cdc-hero-text {
+    flex: none;
+    width: calc(320 * var(--cdc-u));
+    padding-top: calc(49.6 * var(--cdc-u));
+    font-family: 'hack', monospace;
+    font-weight: 700;
+    font-size: calc(31 * var(--cdc-u));
+    line-height: calc(39.4 * var(--cdc-u));
+    letter-spacing: calc(1.2 * var(--cdc-u));
+}
+
+.cdc-hero-line {
+    display: flex;
+    height: calc(39.4 * var(--cdc-u));
+    white-space: pre;
+}
+
+/*
+ * --cdc-cell is one monospace character: its advance width plus the tracking.
+ * Neither item may shrink: the full line and its cursor outgrow the 320px column.
+ */
+.cdc-typed {
+    --cdc-cell: calc(1ch + 1.2 * var(--cdc-u));
+    display: block;
+    flex: none;
+    overflow: hidden;
+}
+
+.cdc-cursor {
+    flex: none;
+    visibility: hidden;
+}
+
+/*
+ * The typewriter's 9s loop, where 1% is one 90ms character:
+ *   0% to 8%    empty
+ *   8% to 17%   line 1 types, 9 characters
+ *   17% to 33%  line 2 types, 16 characters
+ *   33% to 99%  full text while the cursor blinks, then clear and repeat
+ */
+@keyframes cdc-type-1 {
+    0%, 8% {
+        width: 0;
+        animation-timing-function: steps(9, start);
+    }
+    17%, 100% {
+        width: calc(9 * var(--cdc-cell));
+    }
+}
+
+@keyframes cdc-type-2 {
+    0%, 17% {
+        width: 0;
+        animation-timing-function: steps(16, start);
+    }
+    33%, 100% {
+        width: calc(16 * var(--cdc-cell));
+    }
+}
+
+@keyframes cdc-cursor-1 {
+    0% { visibility: visible; }
+    16%, 100% { visibility: hidden; }
+}
+
+@keyframes cdc-cursor-2 {
+    0% { visibility: hidden; }
+    16% { visibility: visible; }
+    38.5% { visibility: hidden; }
+    44% { visibility: visible; }
+    49.5% { visibility: hidden; }
+    55% { visibility: visible; }
+    60.5% { visibility: hidden; }
+    66% { visibility: visible; }
+    71.5% { visibility: hidden; }
+    77% { visibility: visible; }
+    82.5% { visibility: hidden; }
+    88% { visibility: visible; }
+    93.5% { visibility: hidden; }
+    99%, 100% { visibility: visible; }
+}
+
+/* Motion is opt-in: without this block everything rests in its full, static state. */
+@media (prefers-reduced-motion: no-preference) {
+    .cdc-conveyor {
+        animation: cdc-conveyor 60s steps(570, end) infinite;
+    }
+
+    .cdc-typed-1 {
+        animation: cdc-type-1 9s infinite;
+    }
+
+    .cdc-typed-2 {
+        animation: cdc-type-2 9s infinite;
+    }
+
+    .cdc-cursor-1 {
+        animation: cdc-cursor-1 9s step-end infinite;
+    }
+
+    .cdc-cursor-2 {
+        animation: cdc-cursor-2 9s step-end infinite;
+    }
 }
 
 /*# sourceMappingURL=main.css.map */

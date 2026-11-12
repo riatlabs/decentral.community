@@ -2,12 +2,11 @@
 layout: home
 ---
 
-<div class="cdc-embed cdc-embed--center">
-  <div class="black">
-    <p class="cdc-type anim6">
-      <span>&lt;&lt;CCC</span><span>D</span><span>&lt;&lt;CCC</span><span>D</span><span>&lt;&lt;CCC</span><span>D</span><span>&lt;&lt;CCC</span><span>D</span><br>
-      <span>D</span><span>&lt;&lt;CCC</span><span>D</span><span>&lt;&lt;CCC</span><span>D</span><span>&lt;&lt;CCC</span><span>D</span><span>&lt;&lt;CCC</span>
-    </p>
+<div class="cdc-box cdc-hero" role="img" aria-label="Critical Decentralisation">
+  <img class="cdc-hero-mark" src="/assets/40c3/CDC_Logo_5.svg" alt="">
+  <div class="cdc-hero-text" aria-hidden="true">
+    <div class="cdc-hero-line"><span class="cdc-typed cdc-typed-1">CRITICAL_</span><span class="cdc-cursor cdc-cursor-1">_</span></div>
+    <div class="cdc-hero-line"><span class="cdc-typed cdc-typed-2">DECENTRALISATION</span><span class="cdc-cursor cdc-cursor-2">_</span></div>
   </div>
 </div>
 <div class="cdc-embed-spacer" aria-hidden="true"></div>
@@ -25,7 +24,7 @@ Cluster_ (CDC) at the annual [Chaos Communication Congress](https://en.wikipedia
 in Hamburg (Germany).\
 You can access the content we brought to Congress at our C3 pages:\
 [32-34C3](/34C3/) [35C3](/35C3/) [36C3](/36C3/) [37C3](/37C3/) [38C3](/38C3/)
-[39C3](/39C3/)
+[39C3](/39C3/) [40C3](/40C3/)
 
 We also organize the _Decentralized Internet and Privacy Devroom_
 at [FOSDEM](https://en.wikipedia.org/wiki/FOSDEM).\
@@ -33,6 +32,7 @@ Check out the content at our FOSDEM pages: [FOSDEM2026](/FOSDEM2026/)
 [FOSDEM2027](/FOSDEM2027/)
 
 # Open Calls
+* [40C3](/40C3/), _to be announced._
 * [FOSDEM 2027](/FOSDEM2027/), deadline: December 2nd 2026 23:59 CET
 
 # contacts
