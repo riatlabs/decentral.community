@@ -40,7 +40,7 @@ conferences-within-a-conference, dedicated to discussing a specific theme.
 
 FOSDEM 2027 takes place on the weekend of 30 and 31 January 2027. The
 Decentralized Internet and Privacy Devroom will run on Sunday (31st)
-for half a day (5 hours).
+from 9:00 to 17:00.
 
 ## Scope of Talks
 We are particularly interested in work that responds to the current
@@ -96,4 +96,4 @@ resources for the talk.
 ## Key dates
 - Submission deadline: December 2 2026, 23:59 CET
 - Announcement of selected talks: December 7 2026
-- Devroom day: January 31 2027 (half day)
+- Devroom day: January 31 2027, 9:00 - 17:00 CET
