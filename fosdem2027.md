@@ -94,6 +94,7 @@ Use the submission notes to let us know about links to code, slides or other
 resources for the talk.
 
 ## Key dates
-- Submission deadline: December 2 2026, 23:59 CET
-- Announcement of selected talks: December 7 2026
-- Devroom day: January 31 2027, 9:00 - 17:00 CET
+- Submission deadline: 2 December 2026 23:59 CET
+- Announcement of selected talks: 7 December 2026
+- Slides submission deadline: 24 January 2027 23:59 CET
+- Devroom day: 31 January 2027 9:00-17:00 CET
